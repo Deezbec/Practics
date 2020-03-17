@@ -1,0 +1,14 @@
+D:\user\!Kirill\ООП\Практика\BasicAlgs\bin\Debug\BasicAlgs.exe.config
+D:\user\!Kirill\ООП\Практика\BasicAlgs\bin\Debug\BasicAlgs.exe
+D:\user\!Kirill\ООП\Практика\BasicAlgs\bin\Debug\BasicAlgs.pdb
+D:\user\!Kirill\ООП\Практика\BasicAlgs\obj\Debug\BasicAlgs.csprojAssemblyReference.cache
+D:\user\!Kirill\ООП\Практика\BasicAlgs\obj\Debug\BasicAlgs.exe
+D:\user\!Kirill\ООП\Практика\BasicAlgs\obj\Debug\BasicAlgs.pdb
+C:\User\!Kirill\ООП\Практика\BasicAlgs\bin\Debug\BasicAlgs.exe.config
+C:\User\!Kirill\ООП\Практика\BasicAlgs\bin\Debug\BasicAlgs.exe
+C:\User\!Kirill\ООП\Практика\BasicAlgs\bin\Debug\BasicAlgs.pdb
+C:\User\!Kirill\ООП\Практика\BasicAlgs\obj\Debug\BasicAlgs.csprojAssemblyReference.cache
+C:\User\!Kirill\ООП\Практика\BasicAlgs\obj\Debug\BasicAlgs.exe
+C:\User\!Kirill\ООП\Практика\BasicAlgs\obj\Debug\BasicAlgs.pdb
+C:\User\!Kirill\ООП\Практика\BasicAlgs\bin\Debug\BasicAlgs.exe.CodeAnalysisLog.xml
+C:\User\!Kirill\ООП\Практика\BasicAlgs\bin\Debug\BasicAlgs.exe.lastcodeanalysissucceeded

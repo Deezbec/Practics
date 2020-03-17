@@ -1,0 +1,11 @@
+C:\User\!Kirill\ООП\Практика\Практика 13\bin\Debug\netcoreapp3.1\Практика 13.exe
+C:\User\!Kirill\ООП\Практика\Практика 13\bin\Debug\netcoreapp3.1\Практика 13.deps.json
+C:\User\!Kirill\ООП\Практика\Практика 13\bin\Debug\netcoreapp3.1\Практика 13.runtimeconfig.json
+C:\User\!Kirill\ООП\Практика\Практика 13\bin\Debug\netcoreapp3.1\Практика 13.runtimeconfig.dev.json
+C:\User\!Kirill\ООП\Практика\Практика 13\bin\Debug\netcoreapp3.1\Практика 13.dll
+C:\User\!Kirill\ООП\Практика\Практика 13\bin\Debug\netcoreapp3.1\Практика 13.pdb
+C:\User\!Kirill\ООП\Практика\Практика 13\obj\Debug\netcoreapp3.1\Практика 13.csprojAssemblyReference.cache
+C:\User\!Kirill\ООП\Практика\Практика 13\obj\Debug\netcoreapp3.1\Практика 13.AssemblyInfoInputs.cache
+C:\User\!Kirill\ООП\Практика\Практика 13\obj\Debug\netcoreapp3.1\Практика 13.AssemblyInfo.cs
+C:\User\!Kirill\ООП\Практика\Практика 13\obj\Debug\netcoreapp3.1\Практика 13.dll
+C:\User\!Kirill\ООП\Практика\Практика 13\obj\Debug\netcoreapp3.1\Практика 13.pdb

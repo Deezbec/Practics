@@ -1,0 +1,13 @@
+D:\user\!Kirill\ООП\Практика\Практика 9\bin\Debug\Практика 9.exe.config
+D:\user\!Kirill\ООП\Практика\Практика 9\bin\Debug\Практика 9.exe
+D:\user\!Kirill\ООП\Практика\Практика 9\bin\Debug\Практика 9.pdb
+D:\user\!Kirill\ООП\Практика\Практика 9\obj\Debug\Практика 9.csprojAssemblyReference.cache
+D:\user\!Kirill\ООП\Практика\Практика 9\obj\Debug\Практика 9.exe
+D:\user\!Kirill\ООП\Практика\Практика 9\obj\Debug\Практика 9.pdb
+C:\User\!Kirill\ООП\Практика\Практика 9\bin\Debug\Практика 9.exe.config
+C:\User\!Kirill\ООП\Практика\Практика 9\bin\Debug\Практика 9.exe
+C:\User\!Kirill\ООП\Практика\Практика 9\bin\Debug\Практика 9.pdb
+C:\User\!Kirill\ООП\Практика\Практика 9\obj\Debug\Практика 9.exe
+C:\User\!Kirill\ООП\Практика\Практика 9\obj\Debug\Практика 9.pdb
+C:\User\!Kirill\ООП\Практика\Практика 9\bin\Debug\Практика 9.exe.CodeAnalysisLog.xml
+C:\User\!Kirill\ООП\Практика\Практика 9\bin\Debug\Практика 9.exe.lastcodeanalysissucceeded

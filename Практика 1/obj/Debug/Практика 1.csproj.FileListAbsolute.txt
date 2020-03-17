@@ -1,0 +1,7 @@
+C:\User\!Kirill\ООП\Практика\Практика 1\bin\Debug\Практика 1.exe.config
+C:\User\!Kirill\ООП\Практика\Практика 1\bin\Debug\Практика 1.exe
+C:\User\!Kirill\ООП\Практика\Практика 1\bin\Debug\Практика 1.pdb
+C:\User\!Kirill\ООП\Практика\Практика 1\obj\Debug\Практика 1.exe
+C:\User\!Kirill\ООП\Практика\Практика 1\obj\Debug\Практика 1.pdb
+C:\User\!Kirill\ООП\Практика\Практика 1\bin\Debug\Практика 1.exe.CodeAnalysisLog.xml
+C:\User\!Kirill\ООП\Практика\Практика 1\bin\Debug\Практика 1.exe.lastcodeanalysissucceeded

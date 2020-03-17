@@ -1,0 +1,15 @@
+D:\user\!Kirill\ООП\Практика\Практика 2\bin\Debug\Практика 2.exe.config
+D:\user\!Kirill\ООП\Практика\Практика 2\bin\Debug\Практика 2.exe
+D:\user\!Kirill\ООП\Практика\Практика 2\bin\Debug\Практика 2.pdb
+D:\user\!Kirill\ООП\Практика\Практика 2\obj\Debug\Практика 2.csprojAssemblyReference.cache
+D:\user\!Kirill\ООП\Практика\Практика 2\obj\Debug\Практика 2.csproj.CoreCompileInputs.cache
+D:\user\!Kirill\ООП\Практика\Практика 2\obj\Debug\Практика 2.exe
+D:\user\!Kirill\ООП\Практика\Практика 2\obj\Debug\Практика 2.pdb
+C:\User\!Kirill\ООП\Практика\Практика 2\bin\Debug\Практика 2.exe.config
+C:\User\!Kirill\ООП\Практика\Практика 2\bin\Debug\Практика 2.exe
+C:\User\!Kirill\ООП\Практика\Практика 2\bin\Debug\Практика 2.pdb
+C:\User\!Kirill\ООП\Практика\Практика 2\obj\Debug\Практика 2.csprojAssemblyReference.cache
+C:\User\!Kirill\ООП\Практика\Практика 2\obj\Debug\Практика 2.exe
+C:\User\!Kirill\ООП\Практика\Практика 2\obj\Debug\Практика 2.pdb
+C:\User\!Kirill\ООП\Практика\Практика 2\bin\Debug\Практика 2.exe.CodeAnalysisLog.xml
+C:\User\!Kirill\ООП\Практика\Практика 2\bin\Debug\Практика 2.exe.lastcodeanalysissucceeded
