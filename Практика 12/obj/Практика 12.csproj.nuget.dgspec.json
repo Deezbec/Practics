@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\User\\!Kirill\\ООП\\Практика\\Практика 12\\Практика 12.csproj": {}
+    "C:\\User\\!Kirill\\GitHub\\Practics\\Практика 12\\Практика 12.csproj": {}
   },
   "projects": {
-    "C:\\User\\!Kirill\\ООП\\Практика\\Практика 12\\Практика 12.csproj": {
+    "C:\\User\\!Kirill\\GitHub\\Practics\\Практика 12\\Практика 12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\User\\!Kirill\\ООП\\Практика\\Практика 12\\Практика 12.csproj",
+        "projectUniqueName": "C:\\User\\!Kirill\\GitHub\\Practics\\Практика 12\\Практика 12.csproj",
         "projectName": "Практика 12",
-        "projectPath": "C:\\User\\!Kirill\\ООП\\Практика\\Практика 12\\Практика 12.csproj",
+        "projectPath": "C:\\User\\!Kirill\\GitHub\\Practics\\Практика 12\\Практика 12.csproj",
         "packagesPath": "C:\\Users\\grege\\.nuget\\packages\\",
-        "outputPath": "C:\\User\\!Kirill\\ООП\\Практика\\Практика 12\\obj\\",
+        "outputPath": "C:\\User\\!Kirill\\GitHub\\Practics\\Практика 12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grege\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

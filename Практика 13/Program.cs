@@ -147,6 +147,52 @@ z = {this.Z}");
             this.y += Number;
             this.z += Number;
         }
+        public static Point3D operator + (Point3D first, Point3D second)
+        {
+            return new Point3D(first.x + second.x, first.y + second.y, first.z + second.z);
+        }
+        public static Point3D operator -(Point3D first, Point3D second)
+        {
+            return new Point3D(first.x - second.x, first.y - second.y, first.z - second.z);
+        }
+        public static Point3D operator ++(Point3D main)
+        {
+            return new Point3D(main.x + 1, main.y + 1, main.z + 1);
+        }
+        public static Point3D operator --(Point3D main)
+        {
+            return new Point3D(main.x - 1, main.y - 1, main.z - 1);
+        }
+        public static bool operator <= (Point3D first, Point3D second)
+        {
+            if ((first.x < second.x && first.y < second.y && first.z < second.z) || (first.x == second.x && first.y == second.y && first.z == second.z)) return true;
+            else return false;
+        }
+        public static bool operator >= (Point3D first, Point3D second)
+        {
+            if ((first.x > second.x && first.y > second.y && first.z > second.z) || (first.x == second.x && first.y == second.y && first.z == second.z)) return true;
+            else return false;
+        }
+        public static bool operator & (Point3D first, Point3D second)
+        {
+            if ((first.x > 0 && first.y > 0 && first.z > 0) & (second.x > 0 && second.y > 0 && second.z > 0)) return true;
+            return false;
+        }
+        public static bool operator | (Point3D first, Point3D second)
+        {
+            if ((first.x > 0 && first.y > 0 && first.z > 0) | (second.x > 0 && second.y > 0 && second.z > 0)) return true;
+            return false;
+        }
+        public static bool operator true (Point3D main)
+        {
+            if (main.x > 0 && main.y < 0 && main.z < 0) return true;
+            else return false;
+        }
+        public static bool operator false (Point3D main)
+        {
+            if (main.x <= 0 || main.y >= 0 || main.z >= 0) return true;
+            else return false;
+        }
     }
     class Program
     {
@@ -185,7 +231,7 @@ z = {this.Z}");
         static bool SecondDott(out Point3D NewDot)
         {
             Console.Write("Будете создавать 2ую точку? ");
-            if (Console.ReadLine() == "lf")
+            if (Console.ReadLine().ToLower().Replace("l", "д").Replace("f", "а") == "да")
             {
                 NewDot = Input();
                 NewDot.Output();
@@ -203,15 +249,39 @@ z = {this.Z}");
         }
         static void Main(string[] args)
         {
-            Point3D JustADot = Input(), NewDot;
+            Point3D JustADot = Input(), NewDot, ExperimentalDot;
             JustADot.Output();
-            Console.Write("Хотите ли вы изменить точку? ");
+            /*Console.Write("Хотите ли вы изменить точку? ");
             if (Console.ReadLine().ToLower().Replace("l", "д").Replace("f", "а") == "да") while (Changer(JustADot));
             Console.WriteLine($"Радиус вектор этой точки равен {JustADot.R:F2}");
             Multiplication(JustADot);
             if (SecondDott(out NewDot)) JustADot.SummToThisDot(NewDot);
-            else SummWithoutNewDot(JustADot);
+            else SummWithoutNewDot(JustADot); //Для 6ой части практики это не имеет смысла и лишь отнимает время (при раскоменчивании стереть следующую строку)*/
+            SecondDott(out NewDot);
+            Console.WriteLine("Новые координаты 1ой точки");
             JustADot.Output();
+            Console.WriteLine("Координаты точки, которые были получены сложением ранеесозданных : ");
+            ExperimentalDot = JustADot + NewDot;
+            ExperimentalDot.Output();
+            Console.WriteLine("Координаты точки, которые были получены вычитанием ранеесозданных : ");
+            ExperimentalDot = JustADot - NewDot;
+            ExperimentalDot.Output();
+            Console.WriteLine("Координаты первой точки, увеличенные на 1 : ");
+            JustADot++;
+            JustADot.Output();
+            Console.WriteLine("Координаты первой точки, уменьшенные на 1 : ");
+            JustADot--;
+            JustADot.Output();
+            if (JustADot >= NewDot) Console.WriteLine("Все координаты 1ой точки больше или равны координатам второй");
+            else Console.WriteLine("Не все или ни одна из координат 1ой точки больше или равны координатам второй");
+            if (JustADot <= NewDot) Console.WriteLine("Все координаты 1ой точки меньше или равны координатам второй");
+            else Console.WriteLine("Не все или ни одна из координат 1ой точки меньше или равны координатам второй");
+            if (JustADot & NewDot) Console.WriteLine("Обе точки находятся в 1ой части ДСК");
+            else Console.WriteLine("В 1ой части ДСК находится одна или ни одной точки");
+            if (JustADot | NewDot) Console.WriteLine("Хотя бы 1 точка находится в 1ой части ДСК");
+            else Console.WriteLine("Ни одна из точек не находится в 1ой части ДСК");
+            if (JustADot) Console.WriteLine("Первая точка находится в 4ой части ДСК, при этом её z < 0");
+            else Console.WriteLine("Первая точка не находится в 4ой части ДСК или её z >= 0");
             Console.ReadKey();
         }
     }
