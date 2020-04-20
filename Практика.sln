@@ -29,7 +29,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практика 11", "Пр
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Практика 12", "Практика 12\Практика 12.csproj", "{122B76C2-C65B-4BD0-9F8A-DBDD0B1E6170}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практика 13", "Практика 13\Практика 13.csproj", "{5FDE2B5D-C310-4470-8419-F35584C0CA50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Практика 13", "Практика 13\Практика 13.csproj", "{5FDE2B5D-C310-4470-8419-F35584C0CA50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практика 13 Наследование", "Практика 13 Наследование\Практика 13 Наследование.csproj", "{E5A59D18-4064-49DC-96DB-07A761301A06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{5FDE2B5D-C310-4470-8419-F35584C0CA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FDE2B5D-C310-4470-8419-F35584C0CA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FDE2B5D-C310-4470-8419-F35584C0CA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A59D18-4064-49DC-96DB-07A761301A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A59D18-4064-49DC-96DB-07A761301A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A59D18-4064-49DC-96DB-07A761301A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A59D18-4064-49DC-96DB-07A761301A06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

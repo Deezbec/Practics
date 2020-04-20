@@ -1,0 +1,7 @@
+C:\User\!Kirill\GitHub\Practics\Практика 13 Наследование\bin\Debug\Практика 13 Наследование.exe.config
+C:\User\!Kirill\GitHub\Practics\Практика 13 Наследование\bin\Debug\Практика 13 Наследование.exe
+C:\User\!Kirill\GitHub\Practics\Практика 13 Наследование\bin\Debug\Практика 13 Наследование.pdb
+C:\User\!Kirill\GitHub\Practics\Практика 13 Наследование\obj\Debug\Практика 13 Наследование.csprojAssemblyReference.cache
+C:\User\!Kirill\GitHub\Practics\Практика 13 Наследование\obj\Debug\Практика 13 Наследование.csproj.CoreCompileInputs.cache
+C:\User\!Kirill\GitHub\Practics\Практика 13 Наследование\obj\Debug\Практика 13 Наследование.exe
+C:\User\!Kirill\GitHub\Practics\Практика 13 Наследование\obj\Debug\Практика 13 Наследование.pdb
